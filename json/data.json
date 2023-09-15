@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "service": "SERPRO",
+    "status": "up"
+  },
+  {
+    "id": 2,
+    "service": "Conselho Nacional de Justiça",
+    "status": "warning"
+  },
+  {
+    "id": 3,
+    "service": "Tribunal de Justiça",
+    "status": "error"
+  }
+]
